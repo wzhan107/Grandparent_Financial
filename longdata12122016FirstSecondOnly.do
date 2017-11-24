@@ -276,7 +276,7 @@ est store in2,title(Model1)
 
 esttab in1 in2
 *Add new code
-
+*add new pig
 
 
 
