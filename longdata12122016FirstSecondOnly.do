@@ -275,9 +275,7 @@ chall_firson chall_firdau chall_secson,firstpart(logit) secondpart(regress,log) 
 est store in2,title(Model1)
 
 esttab in1 in2
-
-
-
+*Add new code
 
 
 
